@@ -1,0 +1,11 @@
+*~
+*.dll
+*.dylib
+*.exe
+*.out
+*.so
+*.swp
+*.test
+go.work
+.DS_Store/
+.idea/
